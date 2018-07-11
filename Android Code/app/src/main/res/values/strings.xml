@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MNMG Fingerprint Authentication</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">Copyright &#169; MN Media Group, 2018</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+</resources>
